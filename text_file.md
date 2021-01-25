@@ -9,7 +9,6 @@
 
 1. item 1
 1. item 2
-1. item 3
 
 - this is item 1
 	- this is item 1.1
@@ -24,3 +23,6 @@
 [this is the link to my main github account](https://github.com/ahoffbauer127)
 
 **THIS HAS BEEN A VERY INTERSTING EXPERIMEMNT**
+
+*I also added some italics to the bottom of this file*
+
