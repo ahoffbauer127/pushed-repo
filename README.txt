@@ -7,3 +7,5 @@ September 17, 2019
 
 - This has been one of the most interesting things that I have ever seen you do on the comupter
 
+
+- this was another text edit that I wanted to make to my working document
